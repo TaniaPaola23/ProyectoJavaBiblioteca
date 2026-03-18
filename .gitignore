@@ -1,0 +1,13 @@
+# Archivos de sistema de macOS
+.DS_Store
+Icono?
+.AppleDouble
+.LSOverride
+
+# Archivos compilados de Java (no los necesitamos en GitHub)
+*.class
+bin/
+out/
+
+# Archivos de configuración de VS Code
+.vscode/
